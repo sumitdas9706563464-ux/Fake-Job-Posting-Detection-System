@@ -1,0 +1,10 @@
+tensorflow==2.16.1
+pandas==2.2.1
+numpy==1.26.4
+matplotlib==3.8.3
+seaborn==0.13.2
+scikit-learn==1.4.1.post1
+streamlit==1.32.2
+nltk==3.8.1
+faker==24.0.0
+h5py==3.10.0
