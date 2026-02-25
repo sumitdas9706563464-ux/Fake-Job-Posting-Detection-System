@@ -1,6 +1,6 @@
 # Fake Job Posting Detection System 🚫💼
 
-An advanced, production-ready NLP project using **TensorFlow/Keras** and **Streamlit** to identify fraudulent job postings.
+An advanced NLP project using **TensorFlow/Keras** and **Streamlit** to identify fraudulent job postings.
 
 ## 📌 Project Overview
 The goal of this project is to build a robust system that can automatically classify job postings as **Real** or **Fake**. This is a critical problem in the HR and recruitment industry, protecting job seekers from identity theft and financial scams.
@@ -102,4 +102,3 @@ Using a pre-trained **BERT (Bidirectional Encoder Representations from Transform
 
 ---
 
-Developed with ❤️ by Jules.
